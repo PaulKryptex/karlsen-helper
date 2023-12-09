@@ -18,6 +18,6 @@ You need a node and wallet to be running and syncronized to view balances and sp
 - Send.cmd - send KLS to another address.
 
 ## If something goes wrong
-If you want to run setup again you may delete Karlsend and Karlsenwallet folders in AppData\Local
+If you want to run setup again you may delete Karlsend and Karlsenwallet folders in AppData\Local.
 
 Do not do that if you already used your wallet or you will lose funds on it.

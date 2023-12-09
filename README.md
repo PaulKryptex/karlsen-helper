@@ -26,6 +26,6 @@ If you want to run setup again you may delete `Karlsend` and `Karlsenwallet` fol
 Do not do that if you already used your wallet or you will lose funds on it.
 
 
-<a href="https://trackgit.com">
+
 <img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lpy52sw0ocsivhp24sml" alt="trackgit-views" />
-</a>
+

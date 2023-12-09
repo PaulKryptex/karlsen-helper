@@ -3,14 +3,14 @@ Easy setup and basic usage
 
 ## How to set up a node and wallet
 1. Place these files into karlsend folder
-2. Run 1-Setup.cmd and setup your wallet. 
+2. Run `1-Setup.cmd` and setup your wallet. 
 3. Follow the easy step-by-step process
 
 You need to select seed phrase and wallet and press enter to copy them.
 
 ## Operations
-You need a node and wallet to be running and syncronized to view balances and spend KLS.
-1. Run  2-Node_And_Wallet.cmd - two cmd windows will appear - for wallet and for node. 
+**You need a node and wallet to be running and syncronized to view balances and spend KLS.**
+1. Run  `2-Node_And_Wallet.cmd` - two cmd windows will appear - for wallet and for node. 
 2. Wait until full sync (node window will show "block accepted" messages) 
 
 ### After this you may use other .cmd files
@@ -18,9 +18,9 @@ You need a node and wallet to be running and syncronized to view balances and sp
 - Send.cmd - send KLS to another address.
 
 ## How to sync node faster 
-Go to Karlsen discord https://discord.gg/NUeKN7vWp4 and find *useful-links* thread. Database snapshots are uploaded frequently.
+Go to Karlsen discord https://discord.gg/NUeKN7vWp4 and find **useful-links** thread. Database snapshots are uploaded frequently.
 
 ## If something goes wrong
-If you want to run setup again you may delete Karlsend and Karlsenwallet folders in AppData\Local.
+If you want to run setup again you may delete `Karlsend` and `Karlsenwallet` folders in `AppData\Local`.
 
 Do not do that if you already used your wallet or you will lose funds on it.

@@ -27,5 +27,3 @@ Do not do that if you already used your wallet or you will lose funds on it.
 
 
 
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/lpy52sw0ocsivhp24sml"/>
-

@@ -13,9 +13,12 @@ You need a node and wallet to be running and syncronized to view balances and sp
 1. Run  2-Node_And_Wallet.cmd - two cmd windows will appear - for wallet and for node. 
 2. Wait until full sync (node window will show "block accepted" messages) 
 
-## After this you may use other .cmd files
+### After this you may use other .cmd files
 - Balance.cmd - shows current balance
 - Send.cmd - send KLS to another address.
+
+## How to sync node faster 
+Go to Karlsen discord https://discord.gg/NUeKN7vWp4 and find *useful-links* thread. Database snapshots are uploaded frequently.
 
 ## If something goes wrong
 If you want to run setup again you may delete Karlsend and Karlsenwallet folders in AppData\Local.
